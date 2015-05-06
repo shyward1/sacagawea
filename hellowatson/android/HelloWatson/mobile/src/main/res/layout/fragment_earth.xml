@@ -1,0 +1,13 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:id="@+id/earthview_fragment"
+    android:layout_height="match_parent" tools:context="com.shyward.hellowatson.EarthFragment">
+
+    <WebView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/earth_fragment_webview">
+    </WebView>
+
+
+</FrameLayout>

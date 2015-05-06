@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sacagawea</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="app_name_round">Sacagawea</string>
+    <string name="app_name_square">Sacagawea</string>
+</resources>
